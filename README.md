@@ -11,7 +11,6 @@ Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 
 <br />
-#
 
 ### 📈 Stats
 
