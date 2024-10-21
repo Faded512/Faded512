@@ -12,7 +12,9 @@ Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** 
 
 <br />
 
-### 📈 Stats
+##
+
+## 📈 Stats
 
 ![Faded512's Github stats](https://github-readme-stats.vercel.app/api?username=faded512&show_icons=true&theme=nightowl)
 #
