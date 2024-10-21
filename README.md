@@ -13,6 +13,8 @@ Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** 
 
 <br />
 
+##
+
 
 <details>
 <summary><h3>👨‍💻 Faded512's Coding and Development Journey</h3></summary>
