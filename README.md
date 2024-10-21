@@ -9,15 +9,11 @@ Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br />
 
 ##
-
-# 📈 Stats
-
-![Faded512's Github stats](https://github-readme-stats.vercel.app/api?username=faded512&show_icons=true&theme=nightowl)
-#
 
 <details>
 <summary><h3>👨‍💻 Faded512's Coding and Development Journey</h3></summary>
@@ -31,6 +27,14 @@ In essence, coding and development have become more than just a hobby for me; th
 
 <!--
 **Faded512/Faded512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+# 📈 Stats
+
+![Faded512's Github stats](https://github-readme-stats.vercel.app/api?username=faded512&show_icons=true&theme=nightowl)
+#
+
+
 
 ### What I’m working on:
 - ⚙️ Constantly optimizing and improving the EuphoriaRP server for a better player experience.
