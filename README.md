@@ -1,8 +1,8 @@
-## 🌀 Faded
+# 🌀 Faded
 
 Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** for **EuphoriaRP**. I specialize in **Lua scripting** and have a solid understanding of **SQL** to keep things running smoothly. I’m also a **cybersecurity student**, exploring various aspects of network security, ethical hacking, and software development.
 
-## 🛠️ Languages and Tools
+# 🛠️ Languages and Tools
 
 <img align="left" alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -14,10 +14,10 @@ Hey there! I'm **Faded**, a passionate **FiveM server owner** and **developer** 
 
 ##
 
-## 📈 Stats
+# 📈 Stats
 
 ![Faded512's Github stats](https://github-readme-stats.vercel.app/api?username=faded512&show_icons=true&theme=nightowl)
-
+#
 
 <details>
 <summary><h3>👨‍💻 Faded512's Coding and Development Journey</h3></summary>
